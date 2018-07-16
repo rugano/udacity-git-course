@@ -1,3 +1,41 @@
 body {
     background-color: #00cae4;
 }
+
+h1 {
+	color: #000;
+	text-align: center;
+	font-size: 4em;
+}
+
+h2 {
+	color: #000;
+	text-align: center;
+	font-size: 2em;
+}
+
+h3 {
+	color: #000;
+	text-align: center;
+	font-size: 2em;
+}
+
+p{color: #fff;
+font-size: 18px;
+}
+
+.social-link {
+	border-radius: 50%;
+	color: #f00;
+	align: center;
+}
+
+.visually-hidden {
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+}
+
+.links {
+	text-align: center;
+}
